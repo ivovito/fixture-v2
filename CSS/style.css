@@ -5,15 +5,15 @@ h1{
   background-color: #96305A;
   color: white;
 }
-th{
+.tabla{
   border: 0.5px solid black;
 }
-td{
+.tablas{
   border: 0.5px solid black;
   text-align: center;
 
 }
-table{
+.TablaGrupos{
   margin: 20px;
   border: 2px solid black;
 }
@@ -30,4 +30,7 @@ text-align: center;
 }
 h3{
   text-align: justify;
+}
+.boton{
+  border: 3px solid black;
 }
