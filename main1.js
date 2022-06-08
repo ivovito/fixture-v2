@@ -8,4 +8,5 @@ let Puntaje = false;
 function handleSubmit(event) {
   event.preventDefault();
   console.log(event.target.children[1].value);
+  console.log(event.target.children[2].value);
 }
